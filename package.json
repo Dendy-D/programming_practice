@@ -1,0 +1,24 @@
+{
+  "name": "programming_practice",
+  "version": "1.0.0",
+  "description": "Programming Practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dendy-D/programming_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dendy-D/programming_practice/issues"
+  },
+  "homepage": "https://github.com/Dendy-D/programming_practice#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "ts-node": "^10.5.0",
+    "ts-node-dev": "^1.1.8"
+  }
+}
